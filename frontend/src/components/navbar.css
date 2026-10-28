@@ -1,0 +1,28 @@
+nav{
+    display: flex;
+    margin-top:30px;
+    margin-left: 30px;
+}
+
+nav img{
+    width:10%;
+    height:5%;
+    border-radius: 50%;
+    background-color: white;
+}
+
+nav div{
+    display:flex;
+}
+nav h3{
+    margin-left: 10px;
+    color:white;
+}
+
+nav h3:hover{
+    text-decoration: underline;
+}
+Link{
+    margin-left:50px;
+    color:white;
+}
